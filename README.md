@@ -43,9 +43,9 @@ Welcome to my GitHub! I am a mathematician by the Unviersidad Autónoma de Nuevo
 
 ---
 ### :zap: Actividad reciente
-<!-- START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-<!-- END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 ### 📫 Contact Me
