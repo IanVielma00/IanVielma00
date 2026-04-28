@@ -42,6 +42,11 @@ Welcome to my GitHub! I am a mathematician by the Unviersidad Autónoma de Nuevo
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanVielma00&show_icons=true&theme=radical)
 
 ---
+### :zap: Actividad reciente
+<!-- START_SECTION:activity-->
+
+<!-- END_SECTION:activity-->
+
 
 ### 📫 Contact Me
 
