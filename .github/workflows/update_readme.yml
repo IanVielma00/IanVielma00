@@ -2,13 +2,23 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Cada 12 horas
+    - cron: '0 */12 * * *' # Se ejecuta cada 12 horas
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches:
+      - main # Se ejecuta cada vez que hagas un push a main
+
+permissions:
+  contents: write # IMPORTANTE: Permiso para que la Action pueda editar tu README
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
       - name: Update README with recent activity
-        uses: IanVielma00/repository-IanVielma00@main # Reemplaza con tu información
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
