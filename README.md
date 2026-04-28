@@ -44,6 +44,11 @@ Welcome to my GitHub! I am a mathematician by the Unviersidad Autónoma de Nuevo
 ---
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#9](https://github.com/IanVielma00/MiPrimerRepositorio/pull/9) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
+2. 🔒 Closed issue [#6](https://github.com/IanVielma00/MiPrimerRepositorio/issues/6) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
+3. 🎉 Merged PR [#9](https://github.com/IanVielma00/MiPrimerRepositorio/pull/9) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
+4. 🔒 Closed issue [#7](https://github.com/IanVielma00/MiPrimerRepositorio/issues/7) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
+5. 🔒 Closed issue [#8](https://github.com/IanVielma00/MiPrimerRepositorio/issues/8) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact Me
