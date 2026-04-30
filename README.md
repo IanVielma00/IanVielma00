@@ -44,11 +44,11 @@ Welcome to my GitHub! I am a mathematician by the Unviersidad Autónoma de Nuevo
 ---
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/IanVielma00/miTercerRepoGitHubCLI/issues/1) in [IanVielma00/miTercerRepoGitHubCLI](https://github.com/IanVielma00/miTercerRepoGitHubCLI)
-2. ❗ Opened issue [#1](https://github.com/IanVielma00/miTercerRepoGitHubCLI/issues/1) in [IanVielma00/miTercerRepoGitHubCLI](https://github.com/IanVielma00/miTercerRepoGitHubCLI)
-3. 💪 Opened PR [#9](https://github.com/IanVielma00/MiPrimerRepositorio/pull/9) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
-4. 🔒 Closed issue [#6](https://github.com/IanVielma00/MiPrimerRepositorio/issues/6) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
-5. 🎉 Merged PR [#9](https://github.com/IanVielma00/MiPrimerRepositorio/pull/9) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
+1. 🎉 Merged PR [#2](https://github.com/IanVielma00/miTercerRepoGitHubCLI/pull/2) in [IanVielma00/miTercerRepoGitHubCLI](https://github.com/IanVielma00/miTercerRepoGitHubCLI)
+2. 💪 Opened PR [#2](https://github.com/IanVielma00/miTercerRepoGitHubCLI/pull/2) in [IanVielma00/miTercerRepoGitHubCLI](https://github.com/IanVielma00/miTercerRepoGitHubCLI)
+3. 🔒 Closed issue [#1](https://github.com/IanVielma00/miTercerRepoGitHubCLI/issues/1) in [IanVielma00/miTercerRepoGitHubCLI](https://github.com/IanVielma00/miTercerRepoGitHubCLI)
+4. ❗ Opened issue [#1](https://github.com/IanVielma00/miTercerRepoGitHubCLI/issues/1) in [IanVielma00/miTercerRepoGitHubCLI](https://github.com/IanVielma00/miTercerRepoGitHubCLI)
+5. 💪 Opened PR [#9](https://github.com/IanVielma00/MiPrimerRepositorio/pull/9) in [IanVielma00/MiPrimerRepositorio](https://github.com/IanVielma00/MiPrimerRepositorio)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact Me
